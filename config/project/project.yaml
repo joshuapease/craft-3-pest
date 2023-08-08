@@ -1,0 +1,22 @@
+dateModified: 1691538344
+email:
+  fromEmail: joshua.pease@viget.com
+  fromName: 'Craft 3 with Pest'
+  transportType: craft\mail\transportadapters\Sendmail
+meta:
+  __names__:
+    09c1ceab-683b-4ec2-b64a-f23488f4f1ba: 'Craft 3 with Pest' # Craft 3 with Pest
+    40bd14f2-81cb-46a6-b064-5a0545119073: 'Craft 3 with Pest' # Craft 3 with Pest
+    ed24198a-0505-4d80-b3cb-38f6d3cdc071: Common # Common
+system:
+  edition: solo
+  live: true
+  name: 'Craft 3 with Pest'
+  schemaVersion: 3.8.0.1
+  timeZone: America/Los_Angeles
+users:
+  allowPublicRegistration: false
+  defaultGroup: null
+  photoSubpath: null
+  photoVolumeUid: null
+  requireEmailVerification: true
