@@ -1,0 +1,15 @@
+descriptionFormat: ''
+handle: clothing
+hasDimensions: true
+hasProductTitleField: true
+hasVariantTitleField: true
+hasVariants: false
+name: Clothing
+productTitleFormat: ''
+siteSettings:
+  40bd14f2-81cb-46a6-b064-5a0545119073: # Craft 3 with Pest
+    hasUrls: true
+    template: shop/products/_product
+    uriFormat: 'shop/products/{slug}'
+skuFormat: ''
+titleFormat: '{product.title}'

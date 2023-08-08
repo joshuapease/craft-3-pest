@@ -1,13 +1,22 @@
-dateModified: 1691538344
+dateModified: 1691538499
 email:
   fromEmail: joshua.pease@viget.com
   fromName: 'Craft 3 with Pest'
   transportType: craft\mail\transportadapters\Sendmail
 meta:
   __names__:
+    2f40b566-21b8-41ba-9ab2-b8156f452f7b: New # New
+    5d382ee6-772b-4eb6-b3d3-0b2dcd9118fd: Clothing # Clothing
     09c1ceab-683b-4ec2-b64a-f23488f4f1ba: 'Craft 3 with Pest' # Craft 3 with Pest
     40bd14f2-81cb-46a6-b064-5a0545119073: 'Craft 3 with Pest' # Craft 3 with Pest
+    383b942f-b795-4168-92c3-e6231731049c: Dummy # Dummy
     ed24198a-0505-4d80-b3cb-38f6d3cdc071: Common # Common
+plugins:
+  commerce:
+    edition: lite
+    enabled: true
+    licenseKey: NX5GD8371DNBH7X0QMNW4F9W
+    schemaVersion: 3.4.13
 system:
   edition: solo
   live: true
